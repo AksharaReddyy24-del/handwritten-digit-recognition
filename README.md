@@ -232,11 +232,11 @@ images.
 
 ### Training Output
 
-![Training Output](screenshots/training_output.png)
+![Training Output](training_output.png)
 
 ### GUI Result
 
-![GUI Result](screenshots/gui_result.png)
+![GUI Result](gui_result.png)
 
 ------------------------------------------------------------------------
 
